@@ -7,7 +7,7 @@
 <br/>
 
 ## Link to deployed application:
-[donnathompson7.github.io/DonnaThompson-Portfolio](https://donnathompson7.github.io/DonnaThompson-Portfolio)
+[donnathompson7.github.io/Rock-paper-scissors](https://donnathompson7.github.io/Rock-paper-scissors)
 
 <br/>
 
